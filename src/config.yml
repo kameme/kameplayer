@@ -1,0 +1,4 @@
+#kameplayer config option
+#基本有効にしないでください
+#ログが流れまくってパソコンが壊れても知りませんよ。
+debug: false

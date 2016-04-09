@@ -1,0 +1,27 @@
+name: kameplayer
+main: kame.kameplayer.Main
+version: 3.14.1
+
+
+
+
+
+commands:
+  attack:
+  itemrun:
+  fill:
+  entityrun:
+    aliases: [dropmonster, cmdmonster, commandmonster, cm]
+  kameplayer:
+  vec:
+  armor:
+  drop:
+  particle:
+  entity:
+  firework:
+  explode:
+  itemtp:
+  respawn:
+  broadcast:
+  tpto:
+  addlore:
